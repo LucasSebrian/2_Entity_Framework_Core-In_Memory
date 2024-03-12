@@ -56,3 +56,4 @@ Lista de Usuários:
 4 Pressione Enter para sair da lista
 ```
 
+![image](https://github.com/LucasSebrian/2_Entity_Framework_Core-In_Memory/assets/40295405/87e9d7f7-c00a-4886-9b9a-368494efcce0)
