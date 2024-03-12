@@ -31,3 +31,28 @@ As principais funcionalidades do gerenciador incluem:
 2. Abra o projeto em um ambiente de desenvolvimento de sua escolha.
 3. Compile e execute o projeto.
 4. Siga as instruções no terminal para navegar e utilizar as funcionalidades do aplicativo.
+
+## Tela via Console
+```bash
+Bem-vindo ao mundo do C#!
+
+Use ⬆️ e ⬇️ para navegar e pressione Enter/Return para selecionar:
+✅ Listar usuários
+Listar grupos
+Inserir usuário
+Atualizar usuário
+Deletar usuário
+Criar grupo
+Atualizar grupo
+Deletar grupo
+Sair
+
+Você selecionou a opção 1
+
+Lista de Usuários:
+1 John Doe *******
+2 Jane Smith *******
+3 Bob Johnson *******
+4 Pressione Enter para sair da lista
+```
+
